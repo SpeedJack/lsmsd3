@@ -1,2 +1,2 @@
 # lsmsd3
-Large Scale and Multi-Structured Databases - Task 3
+Large Scale and Multi-Structured Databases - WORKGROUP TASK 3  
